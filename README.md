@@ -2,7 +2,7 @@
 # Danny's DataBank
 ___
 
-![case study pic](https://github.com/OkikiAde100/Danny-s-Data-Bank/assets/90972152/72baa5c5-5376-4e78-88e9-a6da0ca85072)
+![case study pic](https://github.com/OkikiAde100/Danny-s-Data-Bank/assets/90972152/7de891eb-6a63-4a5f-b53e-b7a2d2f1360d)
 
 # Introduction
 
