@@ -2,7 +2,7 @@
 # Danny's DataBank
 ___
 
-<img src="attachment:case%20study%20pic.png" style="width:600px;height:500px"/>
+<img src="[attachment:case%20study%20pic.png](https://github.com/OkikiAde100/Danny-s-Data-Bank/blob/main/Data%20Bank%20Project/Pictures%20for%20report/A1.JPG)" style="width:600px;height:500px"/>
 
 # Introduction
 
