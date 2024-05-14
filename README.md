@@ -2,7 +2,7 @@
 # Danny's DataBank
 ___
 
-![DAC avg](https://github.com/OkikiAde100/Danny-s-Data-Bank/assets/90972152/a1622bd1-a7fa-42e7-aacd-b213d3e56945)
+![case study pic](https://github.com/OkikiAde100/Danny-s-Data-Bank/assets/90972152/c3a6315a-8337-492a-ab4d-85713f338c51)
 
 # Introduction
 
