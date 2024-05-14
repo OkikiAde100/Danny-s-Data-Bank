@@ -2,7 +2,7 @@
 # Danny's DataBank
 ___
 
-![Imgur Image]([case study pic.png](https://github.com/OkikiAde100/Danny-s-Data-Bank/blob/main/Data%20Bank%20Project/Pictures%20for%20report/case%20study%20pic.png))
+![case study pic](https://github.com/OkikiAde100/Danny-s-Data-Bank/assets/90972152/7d1a3c6c-ed8b-4c2b-b2a2-9590710467b3)
 
 <img src="(https://github.com/OkikiAde100/Danny-s-Data-Bank/blob/main/Data%20Bank%20Project/Pictures%20for%20report/case%20study%20pic.png)" style="width:600px;height:500px"/>
 
